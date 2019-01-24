@@ -16,3 +16,6 @@
 3. Conclusion
   3.1. _Final Conclusion_
   3.2. _Future Outlook_
+
+## NOTES
+2.1. The author is an artificial persona: Choice to be a “diplomatic” moderator – Reference: Craft of Research, p. 16
