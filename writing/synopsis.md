@@ -19,3 +19,7 @@ _*_ The Nicomachean mean
 ### NOTES
 
 _Keep in mind on the data site of the project to work with APIs, or a backend to not work by hand on the data._
+
+#### Collect titles here
+
+1. Universal Basic Income. (Finally) A Topic of our Time? – Is probably putting a too much emphasis on the historic comparison
