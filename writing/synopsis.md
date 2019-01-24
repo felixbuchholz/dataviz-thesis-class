@@ -6,7 +6,7 @@ My thesis intents to contextualize current discussions around the idea of an uni
 
 _*_ The Nicomachean mean
 
-## Suggested questions from the Thesis Writing Guidelines:
+## Suggested questions from the Thesis Writing Guidelines
 
 - What is the general (cultural, social, political, aesthetic, theoretical ...) meaning of your project?
 - What kind of a contribution does it give to the field in question?

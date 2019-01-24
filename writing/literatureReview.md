@@ -5,5 +5,6 @@
 - It's basic income :the global debate /edited by Amy Downes and Stewart Lansley. Call number: HB846 .I87 2018
 
 ## Bobst Library floors
-DT-DZ, E, F, G, H-HA, oversize D-HA	6th floor
-HM-HZ, J, K, L, N, Q, R, S, T, U, V, Z	9th floor
+
+DT-DZ, E, F, G, H-HA, oversize D-HA     6th floor
+HM-HZ, J, K, L, N, Q, R, S, T, U, V, Z  9th floor
