@@ -1,5 +1,10 @@
 # TODO
 
+## Course
+1. Literature Review
+2. Mindmap (Mindmeister, XMind)
+3. Name your topic
+
 ## Writing
 
 1. Pandoc Markdown?
@@ -16,3 +21,4 @@
 ### Data
 
 ### Implementing
+
