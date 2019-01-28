@@ -1,6 +1,5 @@
 # UBI Outline
 
-
 0. Synopsis
 1. Introduction
   1.1. _Initial inspiration and what this is not about_

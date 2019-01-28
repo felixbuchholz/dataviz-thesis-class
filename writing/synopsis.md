@@ -6,7 +6,9 @@ My thesis intents to contextualize current discussions around the idea of an uni
 
 _*_ The Nicomachean mean
 
-## Suggested questions from the Thesis Writing Guidelines
+## (Notes) 
+
+### Suggested questions from the Thesis Writing Guidelines
 
 - What is the general (cultural, social, political, aesthetic, theoretical ...) meaning of your project?
 - What kind of a contribution does it give to the field in question?
@@ -15,10 +17,6 @@ _*_ The Nicomachean mean
 
 **- Who/what does your project represent? How can the data be rigorously generalized to offer meaning beyond the data points you collected?**
 **- What are your primary data structures, how did you optimize, and does it sustain into the future?**
-
-### NOTES
-
-_Keep in mind on the data site of the project to work with APIs, or a backend to not work by hand on the data._
 
 #### Collect titles here
 
