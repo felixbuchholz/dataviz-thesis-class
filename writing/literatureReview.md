@@ -22,10 +22,10 @@ _Conclusion:_ His calculations in relation to Canada’s budget will very likely
 - Classifying different approaches:
 
   - **Negative income tax (NIT)**, would only go to people below a certain income threshold
-  - **Demogrant**, would go to everyone and partially or completely recollected in some fashion for incomes above a specific threshold
+  - **Demo-grant**, would go to everyone and partially or completely recollected in some fashion for incomes above a specific threshold
   - A **dividend**, collected wealth/income/taxes of a society is distributed every year, resulting of course in changing amounts
 
-- Pereira argues for a combination of demogrant or NIT **and** dividend
+- Pereira argues for a combination of demo-grant or NIT **and** dividend
 - Pereira critiques advocates as well as opponents of UBI for a unsubstantiated claims that UBI is not economically feasible. (Pereira2017, pp. 11 ff)
   - Previous calculation didn’t consider programs that have a similar intent as an UBI (in the broadest sense), like tax-free saving accounts (Pereira2019, p. 19)
 

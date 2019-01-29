@@ -1,2 +1,0 @@
-# Minmap write-up
-
