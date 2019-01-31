@@ -7,10 +7,16 @@
 - {d} 1993: Income data collection in the US changed (Atkinson2015, p. 48)
 - {i} 1945: “Great Compression” (Atkinson2015, p. 57)
 - {te} 1951: First business computer (Atkinson2015, p. 59
-- {w}: 1935 … 1954: The New Deal (Atkinson2015, p. 60)
-- {t}: 1950 – 1979: Average top tax rate: **75%** (Atkinson2015, p. 61)
+- {w} 1935 … 1954: The New Deal (Atkinson2015, p. 60)
+- {t} 1950 – 1979: Average top tax rate: **75%** (Atkinson2015, p. 61)
 - {t}: 1979 – 2009: Average top tax rate: **39%** (Atkinson2015, p. 61)
+- {i} 1970s: Introduction or raise of minimum wages, equal pay legislation (Atkinson2015, p. 74)
+- {i} 1975: UK, “Attack on Inflation” (Atkinson2015, p. 74)
+- {u} 1960 – 73: US unemployment avg. 4.8 % EU way lower, relation switched after (1990–5) that. (Atkinson2015, p. 75)
+
 ## Legend:
+
 {i}: income
 {t}: taxes
 {p}: poverty
+{u}: unemployment
