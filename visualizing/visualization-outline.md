@@ -3,6 +3,7 @@
 ## Second draft
 
 ### 1. Welcome page
+![](assets/01welcome.jpg)
 What do we see:
 - Introduction to the layout
 - Animation of words changing letters into different words:
@@ -13,11 +14,13 @@ What do we see:
   - Freedom Dividend
 
 ### 2. Introduction to the project and the “Opinion UI”
+
 What do we see: 
 - Introductory address on what the subject is and the idea to track the opinion on UBI throughout the reading process
 - Explanation of the UI functionality
 
 ### 3. Urgency of the project: What might our near future look like, if we think about recent developments?
+![](assets/02question.jpg)
 What do we see: 
 - A question about the reader’s take on the future with three possible answers (choose one)
   1. Not much will change, it’s the end of history after all
@@ -39,6 +42,7 @@ What do we see:
 - Defining one of those variants as working definition for the rest of the piece
 
 ### 6. Economic arguments for UBI
+![](assets/03economicArguments.jpg)
 What do we see:
 - First time we see a pro-contra juxtaposition
 - Representation of a back and forth discussion
@@ -47,12 +51,14 @@ What do we see:
 - Every argument can be extended to include more information, data representations and references to sources 
 - Option to extend the argument?
 ### 7. Affordability
+![](assets/04affordability.jpg)
 What do we see:
 - Text on the speculative character of these calculations / models, the difference between static models and dynamic effects of the implementation of policies
 - Dashboard-like visualization of different calculations for various countries
 - Input, how high the UBI should / could be by the user
 - Representation of the values to the scale of the GDP of that country
 ### 8. Domains of qualitative arguments 
+![](assets/05qualitativeArguments.jpg)
 What do we see:
 - The domains of qualitative arguments for UBI (these are links to a detailed view of the arguments)
   - Social justice
@@ -67,9 +73,11 @@ What do we see:
 - Reiteration of the pro-contra juxtaposition of arguments in the specific domain 
 - Option to extend / add to the argument? 
 ### 9. Testimonies (historic authorities)
+![](assets/06testimonies.jpg)
 What do we see:
 - Portraits of proponents of UBI on a background of the school(s) of thought they could be associated with and small introduction or reference to their thoughts on UBI
 ### 10. Dashboard as evaluation of the interaction with the site and comparison to the other readers
+![](assets/07stats.jpg)
 What do we see:
 - A dashboard of the results of the tracked interaction with the site
 - A button to submit the data / optional questions on demographics (age etc.)
