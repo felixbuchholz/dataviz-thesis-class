@@ -1,4 +1,13 @@
-# Universal Basic Income. (Finally) A Topic of our Time?
+# UBI Synopsis
+
+## 20190205 Second draft: How can data visualization support the opinion formation process on a controversial political topic like Universal Basic income
+
+The ambition of my thesis is to contextualize quantitative and qualitative arguments in current and historic discussions of the idea of a universal basic income (UBI) to support readers in reaching or substantiating their own point of view while also allowing them to give feedback on the representation of the argument and changes in their sentiment towards UBI. The representation of the debate on UBI is already a challenge in itself, therefore the user feedback and tracking is not regarded as a separate layer and sole purpose of investigation but as a closely intertwined level of engagement with the content and opportunity for the reader as well as the author to reflect on the opinion formation process. The underlying aspiration of this project is to suggest new practices of feedback mechanisms and exposure of vulnerability that could lead to increased transparency and engagement of readers in face of the currently debated “crisis of representation”
+
+### NOTES on second draft
+_Still rough – it’s late_
+
+## First draft: Universal Basic Income. (Finally) A Topic of our Time?
 
 If I had to write an abstract right now:
 
@@ -6,7 +15,7 @@ My thesis intents to contextualize current discussions around the idea of an uni
 
 
 
-## (Notes) 
+### NOTES (general)
 
 ### Suggested questions from the Thesis Writing Guidelines
 
@@ -22,4 +31,4 @@ _*_ The Nicomachean mean?
 
 #### Collect titles here
 
-1. Universal Basic Income. (Finally) A Topic of our Time? – Is probably putting a too much emphasis on the historic comparison
+1. Universal Basic Income. (Finally) A Topic of our Time? – Is probably putting a too strong emphasis on the historic comparison
