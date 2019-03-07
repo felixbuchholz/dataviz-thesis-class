@@ -1,6 +1,6 @@
 # Wireframe
 
-[Open the PDF](https://github.com/felixbuchholz/thesis/blob/master/visualizing/design-drafts/wireframe/wireframe.pdf)
+[Open the PDF](https://github.com/felixbuchholz/thesis/blob/master/visualizing/design-drafts/wireframe/wireframe.pdf)  
 [Open the xD Preview](https://xd.adobe.com/view/3683ebec-1fe9-4622-5696-d2be4cb5cc9a-40b2/)
 
 ## Initial comments:
