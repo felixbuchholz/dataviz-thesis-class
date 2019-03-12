@@ -1,6 +1,6 @@
 # UBI visualization outline
 
-## Forth draft
+## Fourth draft
 
 1. What is UBI? – _Partial answer: it’s a plan for universal transfers, but what does it mean if it becomes a policy (then translated in concrete measures)_
 2. Introduction to this visual essay
