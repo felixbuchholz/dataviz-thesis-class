@@ -2,24 +2,24 @@
 
 ## Forth draft
 
-1. What is UBI? – _Partial answer: it’s a plan to give people money, but what does it mean if it becomes a policy (a vision, translated in concrete measures)_
+1. What is UBI? – _Partial answer: it’s a plan for universal transfers, but what does it mean if it becomes a policy (then translated in concrete measures)_
 2. Introduction to this visual essay
-3. First model: UBI replaces all of current welfare
+3. **First model:** UBI replaces all of current welfare
    1. Problem: disincentives in current welfare (poverty trap), bureaucracy, freedom argument (means tested, government intrusion)
    2. Why is UBI a solution to this problem?
    3. What would the budget look like?
    4. Opinion? & _Option to skip to the end_
-4. Second model: A small UBI in addition to current welfare or partially replacing welfare
+4. **Second model:** A small UBI in addition to current welfare or partially replacing welfare
    1. Problem: Growing automation, digital divide
    2. Why is UBI a solution to this problem? – More flexibility in personal budget allows to pursue re-training or even start a business
    3. What would the budget look like?
    4. Opinion? & _Option to skip to the end_
-5. Third model: A UBI that raises people just above the poverty line (3b: + education, + health care)
+5. **Third model:** A UBI that raises people just above the poverty line (3b: + education, + health care)
    1. Problem: poverty, rising inequality
    2. Why is UBI a solution to this problem?
    3. What would the budget look like?
    4. Opinion? & _Option to skip to the end_
-6. Forth model: A UBI that makes work optional (significantly above the poverty line)
+6. **Forth model:** A UBI that makes work optional (significantly above the poverty line)
    1. Problem: quality of jobs, rentier income, social justice & equal opportunities
    2. Why is UBI a solution to this problem?
    3. What would the budget look like?
