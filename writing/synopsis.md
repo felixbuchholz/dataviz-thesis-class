@@ -10,8 +10,6 @@ The ambition of my thesis is to contextualize quantitative and qualitative argum
 
 ### NOTES on second draft
 
-_Still rough – it’s late_
-
 ## First draft: Universal Basic Income. (Finally) A Topic of our Time?
 
 If I had to write an abstract right now:
