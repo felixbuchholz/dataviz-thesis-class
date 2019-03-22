@@ -1,5 +1,5 @@
 ---
-title: Rethinking Data as Argument in the Context of Guaranteed Basic Income Debates
+title: DRAFT. NOT READY TO BE READ. Rethinking Data as Argument in the Context of Guaranteed Basic Income Debates
 date: May 2019
 author: Felix Buchholz
 affiliation: Parsons School of Design
@@ -50,7 +50,7 @@ With these introductory remarks on a definition of UBI I want to take a step bac
 [//]: # (TODO: The US has a history in the basic income debate)
 [//]: # (TODO: Summarize)
 
-### A German talking about UBI in the US right now
+### Me talking about UBI in the US right now
 
 Starting this thesis project with a bit of German naivité, I thought it would be great to devote my efforts on an idea that is gaining attention in recent debates and in an increasingly polarized environment had support from people of very different, usually antagonistic political camps. To me it was immediately intriguing when Rutger Bregman or Andrew Yang explain, that John Stuart Mill, Bertrand Russell, Milton Friedman and Martin Luther King had supported the very same idea and when Elon Musk and Mark Zuckerberg jump onboard it made it look like an easy argument to present UBI as an idea, whose time has come (again). Of course everything turns out to be more complex than it initially seems. Consulting with the great peers and my outstanding professors at Parsons, it soon became clear that the topic when touching on themes of redistribution, can escalate into a political minefield very fast. Political labels should probably avoided when possible to avoid alienating readers early. And I realized that it would be wrong to say that there’s already a support for UBI across the political spectrum instead it would be more accurate to say that in across political orientations there are niches that share some core political beliefs that make the approval of a UBI concept more likely,[^conflictingBeliefs] while there are some widely held beliefs across the political spectrum (maybe not reaching to the very left edge) that make the support for UBI highly unlikely. 
 
