@@ -1,0 +1,31 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": ".*",
+        "isAsync": true,
+        "cmd": "echo 'I run for all files.'"
+      },
+      {
+        "match": "\\.md$",
+        "cmd": "echo 'I am a .md file ${file}.'"
+      },
+      {
+        "match": "\\.js$",
+        "cmd": "echo 'I am a .js file ${file}.'"
+      },
+      {
+        "match": ".*",
+        "cmd": "echo 'I am ${env.USERNAME}.'"
+      }
+    ]
+  },
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext"
+  ]
+}
