@@ -1,16 +1,27 @@
 ---
-title: DRAFT. NOT READY TO BE READ. Rethinking Data as Argument in the Context of Guaranteed Basic Income Debates
-date: May 2019
-author: Felix Buchholz
-affiliation: Parsons School of Design
 lang: en-US
+title: |
+  DRAFT  
+  Thesis  
+  ---  
+  Basic Income Guarantees
+date: |
+  __Thesis Advisors__  
+  Daniel Sauter  
+  Aaron Hill  
+  ---  
+  [To be] Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design.  
+  ---  
+  May 2019
+author: |
+  Felix Buchholz  
 keywords: [Basic Income Guarantee, Universal Basic Income, Negative Income Tax]
 abstract: |
   A presidential candidate currently running his campaign on a Universal Basic Income platform in the United States shows how much traction the idea of a guaranteed, unconditional income as a government transfer to all citizens has gained in recent years. While it is definitely a highly controversial topic it seems remarkable that in an increasingly polarized political environment support for this idea can be found across in other regards antagonistic ideological camps. Analysis of the debate around UBI might find that its appeal originates in the fact that in the core idea doesn’t promote a full political program but rather is a strategy of rethinking welfare – with different political perspectives leading to an assemblage of specific UBI plans. Perplexion in this debate arises when these concrete concepts are considered or suggested to be inherently equivalent policies.  
 
   In order to enable readers to engage in a more nuanced debate around UBI I want to propose four distinct categories of UBI plans distinguished by the amount of income they provide and to which extent the transfer is granted in addition or as substitution of current welfare. In this paper I want to discuss how Data Visualization can help clarifying differences of UBI plans across categories, by showing which distinct socio-economic problems they focus on and which re-allocation of resources they propose. Furthermore I want to investigate if this way of pragmatic presentation can be complemented by a questionnaire that engages the reader to reflect on the opinion formation process by giving individual feedback and allowing a comparison to the overall collected data.
 numbersections: true
-# pandoc --filter pandoc-crossref --filter pandoc-fignos --filter pandoc-citeproc --bibliography=thesis.bib --toc -V documentclass=scrreprt --variable classoption=twocolumn --variable papersize=letter -s thesis.md -o thesis.pdf 
+# pandoc --filter pandoc-crossref --filter pandoc-fignos --filter pandoc-citeproc --template=template.latex --bibliography=thesis.bib --toc -V documentclass=scrreprt --variable classoption=twocolumn --variable papersize=letter -s thesis.md -o thesis.pdf 
 ---
 
 # Introduction

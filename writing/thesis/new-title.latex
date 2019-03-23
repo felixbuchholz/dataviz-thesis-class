@@ -1,0 +1,23 @@
+\makeatletter
+\renewcommand{\maketitle}{
+\begin{center}
+
+\pagestyle{empty}
+\phantom{.}  %necessary to add space on top before the title
+\vspace{3cm}
+
+{\Huge \@title\par}
+\vspace{2.5cm}
+
+{\LARGE Your Name}\\[1cm]
+
+{\Large\@date}
+
+\vspace{4.5cm}
+{\Large Advisor 1}\hspace{2cm}{\Large Advisor 2}\\[2cm]
+Dept. of Foo\\
+ABC College
+%if you want something in the bottom of the page just use /vfill before that.
+
+\end{center}
+}\makeatother
