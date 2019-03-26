@@ -140,13 +140,13 @@ Most popular in current debates are models of the third category that promote a 
 
 [^povertyRatesDetail]: Poverty reduction was mainly driven by falling rates among Americans below the age of 18 and above the age of 65. [@WarPoverty2019, see also footnote 9]
 
-The forth model is an expansion of the third raising the grant to a level sustaining basic needs rendering  work optional but also almost necessarily introduces the need for more re-distributive (new) ways of financing the UBI. The problem that has currently most attention addressed by this idea is that growing automation will cause a huge leap in unemployment. Some authors argue there is already a large number of unnecessary jobs [@bregmanUtopiaRealistsCase2016, **TODO:p**] resulting in dissatisfaction and alienation for a large part of the workforce. To address both of these tendencies a UBI would allow to distribute the profits of automation and allow people to pursue endeavors to contribute to society that don’t have to be in the form of a paid job[^genderEquality].
+The forth model is an expansion of the third raising the grant to a level sustaining basic needs rendering  work optional but also almost necessarily introduces the need for more re-distributive (new) ways of financing the UBI. The problem that has currently most attention addressed by this idea is that growing automation will cause a huge leap in unemployment. To address this a UBI would allow to distribute the profits of automation and allow people to pursue endeavors to contribute to society that don’t have to be in the form of a paid job, which would also ease the gaps of currently existing unpaid work.[^genderEquality]
 
 [^genderEquality]: A qualitative argument for UBI is the fact that there is unpaid work in the domestic space that tends to be performed by women [@parijsBasicIncomeRadical2017, 102] and is not easily transformable into paid work (for example, who would monitor the work?). A UBI would acknowledge and compensate for this difference.
 
-As layed out in section [@sec:myApproach] I want to use a data-driven approach to design a framework where users can learn about a problem and try to solve it where a UBI approach can be one possible solution. Amongst the range of possible problems[^possibleProblems] to discuss I chose those where the consensus that it is considered a problem seems to be the broadest: the welfare trap, poverty, growing unemployment and alienation from work.[**TODO:references**] 
+As layed out in section [@sec:myApproach] I want to use a data-driven approach to design a framework where users can learn about a problem and try to solve it where a UBI approach can be one possible solution. Amongst the range of possible problems[^possibleProblems] to discuss I chose those where the consensus that it is considered a problem seems to be the broadest: the welfare trap, poverty, and growing unemployment.
 
-[^possibleProblems]: Possible problems that could be addressed by a UBI plan are amongst others: Opaqueness of current welfare programs, complexities and administrative costs, the welfare trap and cliff effects of social benefits, gender pay gap and inequalities of unpaid work, job polarization and growing unemployment due to automation, poverty and related costs, alienation, the relation between inexistent safety nets, freedom and equal opportunities, private ownership of common goods and new justifications for socio economic (re-)distrubtion
+[^possibleProblems]: Possible problems that could be addressed by a UBI plan are amongst others: Opaqueness of current welfare programs, complexities and administrative costs, the welfare trap and cliff effects of social benefits, gender pay gap and inequalities of unpaid work, job polarization and growing unemployment due to automation, poverty and related costs, alienation, the relation between inexistent safety nets, freedom and equal opportunities, private ownership of common goods and new justifications for economic (re-)distribution.
 
 I then want to follow a progression from problems that allow an introduction to basic UBI concepts and models that have the most compatibilities to current welfare systems to problems that reach the limits of current welfare systems and models that introduce new ideas of financing elaborate UBI plans. 
 
@@ -156,16 +156,14 @@ For this model I want to introduce the problem called “welfare trap” and the
 
 #### Problem: Welfare cliff
 
-The welfare trap describes the problem that in current welfare systems there are cliff effects when recipients are able to improve their earnings situation (market income) beyond certain thresholds they suddenly become ineligible for a benefits resulting in a drop of their net income. It is regarded a problem by advocates and critics of a UBI all over the spectrum[**TODO:references:Cato,**] and different government levels have issued reports on this problem [**TODO:ref:Pennsylvania,Illinois,Massachusetts,CBO**]. While some people argue that it puts unnecessary burden on people trying to sustain a living on their own and use the welfare trap to refute the argument of the lazy poor, others that tend to regard social welfare as an undesirable disincentive to work, denounce the fact that somebody earning more (“working harder”) should be worse off than someone earning less.
+The welfare trap describes the problem that in current welfare systems there are cliff effects when recipients are able to improve their earnings situation (market income) beyond certain thresholds they suddenly become ineligible for a benefits resulting in a drop of their net income. It is regarded a problem by advocates and critics of a UBI all over the spectrum[**TODO:references:Cato,**] and different state governments have issued reports on this problem [**TODO:ref:Pennsylvania,Illinois,Massachusetts,CBO**]. While some people argue that it puts unnecessary burden on people trying to sustain a living on their own and use the welfare trap to refute the argument of the lazy poor, others that tend to regard social welfare as an undesirable disincentive to work, denounce the fact that somebody earning more (“working harder”) should be worse off than someone earning less.
+- Pennsylvania etc. (Complexity of the benefit calculation vs simple formula)
 
-- Todo: 
-  - Pennsylvania etc. (Complexity of the benefit calculation vs simple formula)
-  - Don’t forget bureaucracy (it’s for libertarians and egalitarians)
-  - From a designer’s point of view: 
-    - Trying to omit the deserving / undeserving argument, although it’s not really possible
-    - Lowest obstacle, barrier
-  - Note: Friedman argues for his plan with the alleviation of poverty, but that point is stronger with Widerquist
-
+- Don’t forget bureaucracy (it’s for libertarians and egalitarians)
+- From a designer’s point of view: 
+  - Trying to omit the deserving / undeserving argument, although it’s not really possible
+  - Lowest obstacle, barrier
+- Note: Friedman argues for his plan with the alleviation of poverty, but that point is stronger with Widerquist
 
 #### Solution: A simple NIT scheme, replacing welfare
 
