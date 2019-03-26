@@ -1,0 +1,6 @@
+#### Accounting for bias: my qualitative approach to UBI [**TODO:upForDelete**]
+
+Summarizing the history of the idea of a universal basic income is already a political (and academic) Rorschach test. Anyone who doesn’t want to loose the vast majority of even their most well-meaning readers probably wouldn’t mention Paul Lafargue’s “The Right To Be Lazy”, although it might be the first historical example of rethinking our relation to work in face of general automation. So let me start with that:
+
+> Aristotle’s dream is our reality. Our machines, with breath of fire, with limbs of unwearying steel, with fruitfulness, wonderful inexhaustible, accomplish by themselves with docility their sacred labor. And nevertheless the genius of the great philosophers of capitalism remains dominated by the prejudice of the wage system, worst of slaveries. They do not yet understand that the machine is the saviour of humanity, the god who shall redeem man from the sordidae artes and from working for hire, the god who shall give him leisure and liberty.  
+> [@lafargueRightBeLazy2016, 84]
