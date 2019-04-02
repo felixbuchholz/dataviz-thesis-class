@@ -1,1 +1,0 @@
-Use Karl Wilderquist (back of the envelope) as a filter to include/ exclude plans. “This article has four parts. Part one explains why net cost is so important to UBI and how some prominent publications have gotten it badly wrong.”

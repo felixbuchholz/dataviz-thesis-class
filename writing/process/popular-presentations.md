@@ -1,1 +1,0 @@
-- Kurzgesagt, Youtube. Argument: Too vague “some people”, what would it actually mean? [@inanutshell-kurzgesagtgmbhUniversalBasicIncome2017]
