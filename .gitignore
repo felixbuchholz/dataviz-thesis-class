@@ -8,4 +8,5 @@ learning_vuex
 **.ai
 **.indd
 **.idlk
-.vscode
+.*
+!/.gitignore
