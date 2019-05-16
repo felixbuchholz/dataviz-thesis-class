@@ -1,7 +1,7 @@
 # Universal Income Guarantees. An opportunity to rethink welfare?
 *Thesis and research repository*
  
-[Check-out the written thesis](https://github.com/felixbuchholz/thesis/blob/master/writing/thesis/thesis.pdf)
+[See the written thesis](https://github.com/felixbuchholz/thesis/blob/master/writing/thesis/thesis.pdf)
 
 ## Abstract
 
