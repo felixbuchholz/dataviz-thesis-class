@@ -1,0 +1,3 @@
+### 
+The first section situates the following essay in a climate of political polarization and tries to soften an early objection on the grounds that a UIG would be a socialist idea by mentioning very reaction in the first sentence.
+> Today political debates are polarized. A certain buzz-word can easily trigger a #socialism-uproar or similar types of reactions ending a conversation. Peculiarly the idea of an income guarantee seems to gain traction with the potential to bridge these poles.
